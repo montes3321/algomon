@@ -1,3 +1,4 @@
+# по сути обычный бинарный поиск
 class Solution:
     def mySqrt(self, x: int) -> int:
         l,r = 0,x
