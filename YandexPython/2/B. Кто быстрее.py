@@ -2,6 +2,7 @@
 
 pet = int(input())
 vas = int(input())
+tol = int(input())
 
 if pet > vas:
     print("Петя")
