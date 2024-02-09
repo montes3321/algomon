@@ -5,3 +5,4 @@ name2 = input()
 name3 = input()
 
 print(min(max, name2, name3))
+
